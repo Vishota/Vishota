@@ -1,12 +1,15 @@
 
-```
+
 pretty long time ago I've decided to stop using github for my personal projects
 
 
 this account generally won't be updated, i guess
 
 despite that, I am active as a software developer, you can contact me here: https://t.me/vishota
-```
+
+
+***
+
 
 wrote my first programs in 2013 (9yo/3rd grade), constantly developing my skills all the time after
 
