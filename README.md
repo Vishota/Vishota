@@ -3,7 +3,7 @@
 Seeking job right now!
 
 More about me here:  
-CV: [cv.vishota.com](cv.vishota.com)  
-CV PDF: [cv.vishota.com/cv.pdf](cv.vishota.com/cv.pdf)
+CV: [cv.vishota.com](https://cv.vishota.com)  
+CV PDF: [cv.vishota.com/cv.pdf](https://cv.vishota.com/cv.pdf)
 
-Contact ne: [t.me/vishota](t.me/vishota)
+Contact ne: [t.me/vishota](https://t.me/vishota)
